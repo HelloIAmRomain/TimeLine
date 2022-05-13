@@ -1,5 +1,5 @@
 # TimeLine
-============
+--------------------------------------
 ## Bienvenue sur le logiciel d'education !
 
 
