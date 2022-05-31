@@ -18,4 +18,4 @@ Nous espérons que vous en ferez un bon usage!
 Ce code a été réalisé par trois étudiants de l'[Icam Toulouse](https://www.icam.fr/).
 Bonne visite!
 
-![Logo Timeline](https://upload.wikimedia.org/wikipedia/commons/a/af/Timeline_Logo.png)
+![Logo Timeline](/TimeLine/TimeLine2.png)
